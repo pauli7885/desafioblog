@@ -6,7 +6,8 @@ En este proyecto se ve:
   -color
   -background color
 
-   html
+El simbolo de abajo se conoce como backtick
+```html
 <html>
   <body>
    <p>esto es codigo que se podra ver en mi archivo leeme</p>
